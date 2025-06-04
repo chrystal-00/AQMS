@@ -1,4 +1,4 @@
-const BLYNK_TOKEN = 'ntlJEMQqQnaJaBMD2DlcJIJd-FlqBqQb';
+const BLYNK_TOKEN = 'kXswxFLarbnEU7E89fV_TZzLCZeDEEaA';
 
 const virtualPins = {
   pm25: 'V0',
